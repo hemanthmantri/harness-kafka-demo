@@ -62,6 +62,7 @@ public class LagInfo {
      */
     public long offsetLag() {
         return this.offsetLag;
+        
     }
 
     @Override
